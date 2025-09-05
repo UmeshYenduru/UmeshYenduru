@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Umesh 👋  
+🚀 Software Developer | AI & Blockchain Enthusiast  
 
-<!--
-**UmeshYenduru/UmeshYenduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building intelligent systems, scalable web apps, and exploring how cutting-edge technologies can solve real-world problems.  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, C++  
+- **Web:** React, Node.js, Express, Django  
+- **Database:** MongoDB, MySQL  
+- **AI/ML:** TensorFlow, PyTorch, NLP, RNNs  
+- **Blockchain:** Solidity, Smart Contracts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Highlighted Projects
+- 🧠 *AI-Powered Finance Advisor* – Personal finance management with AI insights  
+- 📊 *Quiz Web App* – MERN-based app with authentication & score tracking  
+- 🤖 *AI Chatbot* – NLP-driven assistant for customer support  
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/umesh-yenduru-753740334/)  
+- 👨‍💻 [LeetCode](https://leetcode.com/u/umesh_the_coder/)  
+- 🐙 [GitHub](https://github.com/UmeshYenduru)  
